@@ -15,9 +15,9 @@ timezone: America/Toronto
 
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # --------------------------
-title: Crackersamdjam's Blog                          # the main title
+title: crackersamdjam
 
-tagline: hi   # it will display as the sub-title
+tagline: Eric Pei
 
 description: >-                        # used by seo meta and the atom feed
   My blog on programming stuff.
