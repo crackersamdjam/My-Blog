@@ -14,7 +14,7 @@ Back in February 2020, I wrote the Canadian Computing Competition (CCC) and rece
 
 Recently, I found out about Jekyll. I greatly prefer writing in Markdown over HTML. Plus, this Jekyll site has a ton of features. I hope that now, I'll write more to share my experiences.
 
-I've moved over my old CCC 2020 blog post and I plan on writing about many topics such as recent contests, algorithm tutorials, and even non-technical subjects such as my programming mindset.
+I've moved over my old CCC 2020 blog and I plan on writing about topics such as recent contests, algorithm tutorials, and even non-technical subjects such as my programming mindset.
 
 Thanks for reading this far and I hope I'll have a lot more content up by the time you read this. 👋
 
