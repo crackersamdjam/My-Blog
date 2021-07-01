@@ -8,6 +8,7 @@ toc: true
 comments: false
 math: true
 mermaid: true
+pin: true
 ---
 
 Back in February 2020, I wrote the Canadian Computing Competition (CCC) and received a perfect score. My programming teacher suggested that his students write a blog on the contest. A month later, when Canada entered Coronoavirus lockdown, I scraped together a website on which to publish my CCC 2020 blog. There was so much cool stuff about programming I wanted to share, so I thought that I would quickly fill up my blog. However, I never had to motivation to package up my ideas into presentable content.
