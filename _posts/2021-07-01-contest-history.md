@@ -10,7 +10,13 @@ math: true
 mermaid: true
 ---
 
-(Only major contest are listed)
+### My Online Ratings
+[![Atcoder Badge](https://rating-badges.herokuapp.com/Atcoder/crackersamdjam)](https://atcoder.jp/users/crackersamdjam)
+[![Codeforces Badge](https://rating-badges.herokuapp.com/Codeforces/crackersamdjam)](https://codeforces.com/profile/crackersamdjam)
+[![DMOJ Badge](https://rating-badges.herokuapp.com/DMOJ/crackersamdjam)](https://www.dmoj.ca/user/crackersamdjam)
+
+
+### My Contest History (only major contest are listed):
 
 [//]: I should make the placements appear right under each contest entry instead of looking like sub-points
 <!--
