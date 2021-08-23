@@ -11,9 +11,9 @@ mermaid: true
 ---
 
 ### My Online Ratings
-[![Atcoder Badge](https://rating-badges.herokuapp.com/Atcoder/crackersamdjam)](https://atcoder.jp/users/crackersamdjam)
-[![Codeforces Badge](https://rating-badges.herokuapp.com/Codeforces/crackersamdjam)](https://codeforces.com/profile/crackersamdjam)
-[![DMOJ Badge](https://rating-badges.herokuapp.com/DMOJ/crackersamdjam)](https://www.dmoj.ca/user/crackersamdjam)
+[![Atcoder Badge](https://crackersamdjam.ca/badges/Atcoder/crackersamdjam)](https://atcoder.jp/users/crackersamdjam)
+[![Codeforces Badge](https://crackersamdjam.ca/badges/Codeforces/crackersamdjam)](https://codeforces.com/profile/crackersamdjam)
+[![DMOJ Badge](https://crackersamdjam.ca/badges/DMOJ/crackersamdjam)](https://www.dmoj.ca/user/crackersamdjam)
 
 Rating badges are available [here](https://github.com/crackersamdjam/Rating-Badges). Pull requests to add more sites are welcomed.
 
