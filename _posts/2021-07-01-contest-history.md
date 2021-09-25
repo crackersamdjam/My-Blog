@@ -26,7 +26,7 @@ Rating badges are available [here](https://github.com/crackersamdjam/Rating-Badg
   - 1<sup>th</sup> place
 -->
 
-- ![image alt >](/assets/img/content/contest-history/facebook2.png) [Facebook Hacker Cup 2021 Round 2](https://www.facebook.com/codingcompetitions/hacker-cup/2021/round-2/scoreboard?start=56)
+- ![image alt >](/assets/img/content/contest-history/facebook2.png) [Facebook Hacker Cup 2021 Round 2](https://www.facebook.com/codingcompetitions/hacker-cup/2021/round-2/scoreboard?start=55)
   - 56<sup>th</sup> place
 - ![image alt >](/assets/img/content/contest-history/mbit.png) [Montgomery Blair Informatics Tournament](https://mbit.mbhs.edu/archive/2021s/)
   - 5<sup>th</sup> place team
