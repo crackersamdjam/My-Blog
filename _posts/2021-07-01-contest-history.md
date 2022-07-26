@@ -26,8 +26,21 @@ Rating badges are available [here](https://github.com/crackersamdjam/Rating-Badg
   - 1<sup>th</sup> place
 -->
 
-- ![image alt >](/assets/img/content/contest-history/facebook2.png) [Facebook Hacker Cup 2021 Round 2](https://www.facebook.com/codingcompetitions/hacker-cup/2021/round-2/scoreboard?start=55)
+- ![image alt >](/assets/img/content/contest-history/google.png) [Code Jam 2020 Round 3](https://codingcompetitions.withgoogle.com/codejam/round/00000000008779b4)
+  - 580<sup>th</sup> place
+
+- ![image alt >](/assets/img/content/contest-history/google.png) [Code Jam 2020 Round 2](https://codingcompetitions.withgoogle.com/codejam/round/00000000008778ec)
+  - 599<sup>th</sup> place
+
+- ![image alt >](/assets/img/content/contest-history/google.png) [Code Jam 2020 Round 1B](https://codingcompetitions.withgoogle.com/codejam/round/000000000087711b)
+  - 101<sup>st</sup> place
+
+- ![image alt >](/assets/img/content/contest-history/facebook2.png) [Meta Hacker Cup 2021 Round 3](https://www.facebook.com/codingcompetitions/hacker-cup/2021/round-3/scoreboard?start=206)
+  - 207<sup>th</sup> place
+
+- ![image alt >](/assets/img/content/contest-history/facebook2.png) [Meta Hacker Cup 2021 Round 2](https://www.facebook.com/codingcompetitions/hacker-cup/2021/round-2/scoreboard?start=55)
   - 56<sup>th</sup> place
+
 - ![image alt >](/assets/img/content/contest-history/mbit.png) [Montgomery Blair Informatics Tournament](https://mbit.mbhs.edu/archive/2021s/)
   - 5<sup>th</sup> place team
 - ![image alt >](/assets/img/content/contest-history/cemc.png) [Canadian Computing Olympiad (CCO) 2021](https://cemc.uwaterloo.ca/contests/past_contests/2021/2021CCOResults.pdf)
