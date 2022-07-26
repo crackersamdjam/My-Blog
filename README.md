@@ -1,2 +1,2 @@
-# Crackersamdjam's Programming Blog
+# My Blog
 
