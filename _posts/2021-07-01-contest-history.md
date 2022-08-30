@@ -26,13 +26,13 @@ Rating badges are available [here](https://github.com/crackersamdjam/Rating-Badg
   - 1<sup>th</sup> place
 -->
 
-- ![image alt >](/assets/img/content/contest-history/google.png) [Code Jam 2020 Round 3](https://codingcompetitions.withgoogle.com/codejam/round/00000000008779b4)
+- ![image alt >](/assets/img/content/contest-history/google.png) [Code Jam 2022 Round 3](https://codingcompetitions.withgoogle.com/codejam/round/00000000008779b4)
   - 580<sup>th</sup> place
 
-- ![image alt >](/assets/img/content/contest-history/google.png) [Code Jam 2020 Round 2](https://codingcompetitions.withgoogle.com/codejam/round/00000000008778ec)
+- ![image alt >](/assets/img/content/contest-history/google.png) [Code Jam 2022 Round 2](https://codingcompetitions.withgoogle.com/codejam/round/00000000008778ec)
   - 599<sup>th</sup> place
 
-- ![image alt >](/assets/img/content/contest-history/google.png) [Code Jam 2020 Round 1B](https://codingcompetitions.withgoogle.com/codejam/round/000000000087711b)
+- ![image alt >](/assets/img/content/contest-history/google.png) [Code Jam 2022 Round 1B](https://codingcompetitions.withgoogle.com/codejam/round/000000000087711b)
   - 101<sup>st</sup> place
 
 - ![image alt >](/assets/img/content/contest-history/facebook2.png) [Meta Hacker Cup 2021 Round 3](https://www.facebook.com/codingcompetitions/hacker-cup/2021/round-3/scoreboard?start=206)
