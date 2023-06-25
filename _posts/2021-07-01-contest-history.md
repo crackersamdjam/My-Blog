@@ -10,7 +10,8 @@ math: true
 mermaid: true
 ---
 
-### My Online Ratings
+### My Online Profiles
+
 [![Atcoder Badge](https://crackersamdjam.ca/badges/Atcoder/crackersamdjam)](https://atcoder.jp/users/crackersamdjam)
 [![Codeforces Badge](https://crackersamdjam.ca/badges/Codeforces/crackersamdjam)](https://codeforces.com/profile/crackersamdjam)
 [![DMOJ Badge](https://crackersamdjam.ca/badges/DMOJ/crackersamdjam)](https://www.dmoj.ca/user/crackersamdjam)
@@ -25,6 +26,12 @@ Rating badges are available [here](https://github.com/crackersamdjam/Rating-Badg
 - ![image alt >](/assets/img/content/contest-history/.png) []()
   - 1<sup>th</sup> place
 -->
+
+- ![image alt >](/assets/img/content/contest-history/icpc.png) [2022 East Central North America Regional ICPC](https://cs.uwaterloo.ca/news/waterloo-teams-among-top-15-at-2022-east-central-na-regional-icpc)
+  - 6<sup>th</sup> place
+
+- ![image alt >](/assets/img/content/contest-history/icpc.png) [Winter 2023 ICPC-style Waterloo Local Contest](http://acm.student.cs.uwaterloo.ca/~acm00/230129score.html)
+  - 2<sup>nd</sup> place
 
 - ![image alt >](/assets/img/content/contest-history/google.png) [Code Jam 2022 Round 3](https://codingcompetitions.withgoogle.com/codejam/round/00000000008779b4)
   - 580<sup>th</sup> place
