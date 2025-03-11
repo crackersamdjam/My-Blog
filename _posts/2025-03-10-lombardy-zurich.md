@@ -3,7 +3,6 @@ layout: post
 title: "One Last Trip to Lombardy and Zürich"
 date: 2025-03-10 00:19:00 -0500
 categories: [Travel]
-tags: [Europe]
 toc: true
 media_subpath: /assets/img/content/lombardy-zurich/
 ---

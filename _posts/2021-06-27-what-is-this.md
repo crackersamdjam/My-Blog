@@ -3,7 +3,6 @@ layout: post
 title: "What is this?"
 date: 2021-06-27 12:41:00 -0400
 categories: []
-tags: []
 toc: true
 comments: false
 math: true
