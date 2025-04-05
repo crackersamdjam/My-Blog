@@ -39,6 +39,12 @@ I settled on visiting the town of Lecco, situated on Lake Como and surrounded by
 
 ![](lecco_view.jpg)
 
+{%
+  include embed/video.html src='stock.mp4'
+  title='This could be stock footage!'
+  types='video/mp4'
+%}
+
 ### The Hostel
 The Yellowsquare Milan Hostel was the cleanest and most comfortable hostel I've stayed at, and I expect nothing less given its high price. They were running a trivia night and I had a free drink voucher to use, so I got a beer and looked for a team. I heard some chatter in Indian English and turned to find three guys sitting at a table for four. I said hi and they welcomed me in! One guy was a North Indian working at CERN, who met the other two at the hostel. He had just come from Lausanne a few days before me!
 
