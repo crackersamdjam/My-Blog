@@ -107,4 +107,4 @@ _Lighters past security? In America, they won't even let you bring pocket knives
 
 I landed in Toronto and felt right at home when my cab driver spoke to me in an incomprehensibly heavy Indian accent 🙃
 
-This was a chill, slow trip (relative to my other trips) to end the year. This concludes my travels, and now I must return to normal life 😢. School and co-op will never be the same.
+This was a chill, slow trip (relative to my other travels) to end the year. This concludes my travels, and now I must return to normal life 😢. School and co-op will never be the same.
